@@ -7,7 +7,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Description of the Files:
 
-The variables, the data, and any transformations or work that was performed to clean up the data is outlined in "CodeBook.md".
+The variables, the data, and any transformations or work that was performed to clean up the data is outlined in 'CodeBook.md'.
 
 'run_analysis.R' contains all the code to perform the analysis described in the 5 steps. 
 
